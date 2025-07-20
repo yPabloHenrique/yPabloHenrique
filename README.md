@@ -24,4 +24,4 @@
   <a href="https://discord.com/users/963122059674800158"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
-![Snake Animation](https://github.com/Smoksmk/Smokesmk/blob/output/github-contribution-grid-snaki.svg)
+![Snake Animation](https://github.com/Smoksmk/Smokesmk/blob/output/github-contribution-grid-snake.svg)
