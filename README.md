@@ -5,7 +5,7 @@
 - Cursando Formação DEVMedia
 <div>
 <a href="https://github.com/Smokesmk/github-readme-stats">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=Smokesmk&theme=radical" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=Smokesmk&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/Smokesmk/convoychat">
   <img height=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smokesmk&layout=compact&langs_count=8&card_width=360&theme=radical" />
