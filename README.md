@@ -1,6 +1,6 @@
 # 🖖 | Olá, eu sou Pablo Henrique!
 
-- Ainda estudando linguagens de programação
+- Ainda Estudando Linguagens de Programação
 - Desenvolvo Aplicações Web
 - Cursando Formação DEVMedia
 <div>
