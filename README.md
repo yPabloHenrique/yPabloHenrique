@@ -1,8 +1,9 @@
 # 🖖 | Olá, eu sou Pablo Henrique!
 
-- Ainda Estudando Linguagens de Programação
-- Desenvolvo Aplicações Web
-- Cursando Formação DEVMedia
+- Estudante de Programação
+- Desenvolvedor Web - Full-Stack
+- Estudante de UX/UI Design
+
 <div>
 <a href="https://github.com/yPabloHenrique/github-readme-stats">
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=yPabloHenrique&theme=radical&rank_icon=github" />
