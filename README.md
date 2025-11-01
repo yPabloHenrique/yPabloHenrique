@@ -2,7 +2,7 @@
 
 ## *"Criatividade é a primeira etapa para o sucesso!"*
 
-- Desenvolvedor Web - Full-Stack
+- Estudando Desenvolvimento Web - Full-Stack
 - Estudante de UX/UI Design
 
 <div>
