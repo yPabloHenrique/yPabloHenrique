@@ -1,6 +1,6 @@
-# 🖖 | Olá, eu sou Pablo Henrique!
+<h1 align="center">🖖 | Olá, eu sou Pablo Henrique!</h1>
 
-## *"Criatividade é a primeira etapa para o sucesso!"*
+<h2 align="center">"Criatividade é a primeira etapa para o sucesso!"</h2>
 
 - Estudando Desenvolvimento Web - Full-Stack
 - Estudante de UX/UI Design
