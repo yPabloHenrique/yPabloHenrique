@@ -5,14 +5,6 @@
 - Estudando Desenvolvimento Web - Full-Stack
 - Estudante de UX/UI Design
 
-<div>
-<a href="https://github.com/yPabloHenrique/github-readme-stats">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=yPabloHenrique&theme=radical&rank_icon=github" />
-</a>
-<a href="https://github.com/yPabloHenrique/convoychat">
-  <img height=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yPabloHenrique&layout=compact&langs_count=8&card_width=360&theme=radical" />
-</a>
-</div>
 <div style="display: inline_block;"><br>
 <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
